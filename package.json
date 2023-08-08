@@ -1,7 +1,7 @@
 {
   "name": "splyt-assesment",
   "version": "1.0.0",
-  "description": "sample task assesment codes",
+  "description": "sample typescript assessments",
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --ext .ts",
